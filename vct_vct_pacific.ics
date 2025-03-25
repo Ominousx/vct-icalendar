@@ -1,0 +1,115 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//VCT Schedule//Valorant//EN
+BEGIN:VEVENT
+SUMMARY:DetonatioN FocusMe vs Global Esports
+DTSTART:20250322T080000Z
+DTEND:20250322T100000Z
+DTSTAMP:20250325T163208Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:T1 vs ZETA DIVISION
+DTSTART:20250322T104000Z
+DTEND:20250322T124000Z
+DTSTAMP:20250325T163208Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DRX vs Paper Rex
+DTSTART:20250323T080000Z
+DTEND:20250323T100000Z
+DTSTAMP:20250325T163208Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TALON vs Team Secret
+DTSTART:20250323T110500Z
+DTEND:20250323T130500Z
+DTSTAMP:20250325T163208Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gen.G vs BOOM Esports
+DTSTART:20250324T080000Z
+DTEND:20250324T100000Z
+DTSTAMP:20250325T163208Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nongshim RedForce vs Rex Regum Qeon
+DTSTART:20250324T105000Z
+DTEND:20250324T125000Z
+DTSTAMP:20250325T163208Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Team Secret vs ZETA DIVISION
+DTSTART:20250329T080000Z
+DTEND:20250329T100000Z
+DTSTAMP:20250325T163208Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:T1 vs Nongshim RedForce
+DTSTART:20250329T100000Z
+DTEND:20250329T120000Z
+DTSTAMP:20250325T163208Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gen.G vs Paper Rex
+DTSTART:20250330T080000Z
+DTEND:20250330T100000Z
+DTSTAMP:20250325T163208Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DRX vs DetonatioN FocusMe
+DTSTART:20250330T100000Z
+DTEND:20250330T120000Z
+DTSTAMP:20250325T163208Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TALON vs Rex Regum Qeon
+DTSTART:20250331T080000Z
+DTEND:20250331T100000Z
+DTSTAMP:20250325T163208Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BOOM Esports vs Global Esports
+DTSTART:20250331T100000Z
+DTEND:20250331T120000Z
+DTSTAMP:20250325T163208Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gen.G vs DetonatioN FocusMe
+DTSTART:20250405T080000Z
+DTEND:20250405T100000Z
+DTSTAMP:20250325T163208Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rex Regum Qeon vs ZETA DIVISION
+DTSTART:20250405T100000Z
+DTEND:20250405T120000Z
+DTSTAMP:20250325T163208Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
