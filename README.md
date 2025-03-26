@@ -31,8 +31,8 @@ This will scrape the latest schedules and update the `.ics` files automatically.
 
 Click the links below to add live match schedules to your calendar:
 
-- **[VCT Pacific](https://raw.githubusercontent.com/Ominousx/vct-icalendar/main/vct_pacific.ics)**
-- **[VCT EMEA](https://raw.githubusercontent.com/Ominousx/vct-icalendar/main/vct_emea.ics)**
+- **[VCT Pacific](https://raw.githubusercontent.com/Ominousx/vct-icalendar/main/vct_vct_pacific.ics)**
+- **[VCT EMEA](https://raw.githubusercontent.com/Ominousx/vct-icalendar/main/vct_vct_emea.ics)**
 - **[VCT Americas](https://raw.githubusercontent.com/Ominousx/vct-icalendar/main/vct_americas.ics)**
 - **[VCT China](https://raw.githubusercontent.com/Ominousx/vct-icalendar/main/vct_china.ics)**
 
