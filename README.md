@@ -27,11 +27,19 @@ python vct_ical_scraper.py
 
 This will scrape the latest schedules and update the `.ics` files automatically.
 
-## How to Use `.ics` Files
-You can import these `.ics` files into:
-- **Google Calendar**: [Guide](https://support.google.com/calendar/answer/37118?hl=en)
-- **Apple Calendar**: [Guide](https://support.apple.com/guide/calendar/import-or-export-calendars-icl1022/mac)
-- **Outlook Calendar**: [Guide](https://support.microsoft.com/en-us/office/import-or-subscribe-to-a-calendar-in-outlook-on-the-web-503ffaf6-7b86-44fe-8dd6-8099d95f38df)
+## Subscribe to VCT Calendars
+
+Click the links below to add live match schedules to your calendar:
+
+- **[VCT Pacific](https://raw.githubusercontent.com/Ominousx/vct-icalendar/main/vct_pacific.ics)**
+- **[VCT EMEA](https://raw.githubusercontent.com/Ominousx/vct-icalendar/main/vct_emea.ics)**
+- **[VCT Americas](https://raw.githubusercontent.com/Ominousx/vct-icalendar/main/vct_americas.ics)**
+- **[VCT China](https://raw.githubusercontent.com/Ominousx/vct-icalendar/main/vct_china.ics)**
+
+### How to Use
+1. **Google Calendar**: Go to Google Calendar → Add Calendar → From URL → Paste the link.
+2. **Apple Calendar**: File → New Calendar Subscription → Paste the link.
+3. **Outlook**: Add Calendar → Subscribe from Web → Paste the link.
 
 ## Contributions
 Feel free to open an issue or submit a pull request if you’d like to improve this project!
