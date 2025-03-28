@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Rajdhani:wght@300;400;600&display=swap");
+
+body {
+    font-family: "Rajdhani", sans-serif;
+    background-color: #0e0e0e;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.logo {
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 36px;
+}
+
+.button-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.sync-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 220px;
+    padding: 12px;
+    font-size: 18px;
+    text-decoration: none;
+    color: white;
+    background-color: #222;
+    border-radius: 10px;
+    transition: all 0.3s ease-in-out;
+    border: 2px solid transparent;
+    font-weight: 600;
+}
+
+.sync-button img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.sync-button:hover {
+    background-color: #444;
+    transform: scale(1.05);
+    border-color: #00ffcc;
+}
+
+.all-sync {
+    background-color: #0066ff;
+    border-color: #0044cc;
+}
+
+.all-sync:hover {
+    background-color: #0044cc;
+    border-color: #002299;
+}
