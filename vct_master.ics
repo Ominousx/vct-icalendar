@@ -1,0 +1,765 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//VCT 2025//EN
+
+BEGIN:VEVENT
+SUMMARY:Team Secret vs ZETA DIVISION
+DTSTART:20250329T080000Z
+DTEND:20250329T100000Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:T1 vs Nongshim RedForce
+DTSTART:20250329T100000Z
+DTEND:20250329T120000Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gen.G vs Paper Rex
+DTSTART:20250330T080000Z
+DTEND:20250330T100000Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DRX vs DetonatioN FocusMe
+DTSTART:20250330T100000Z
+DTEND:20250330T120000Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TALON vs Rex Regum Qeon
+DTSTART:20250331T080000Z
+DTEND:20250331T100000Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BOOM Esports vs Global Esports
+DTSTART:20250331T100000Z
+DTEND:20250331T120000Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gen.G vs DetonatioN FocusMe
+DTSTART:20250405T080000Z
+DTEND:20250405T100000Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rex Regum Qeon vs ZETA DIVISION
+DTSTART:20250405T100000Z
+DTEND:20250405T120000Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paper Rex vs BOOM Esports
+DTSTART:20250406T080000Z
+DTEND:20250406T100000Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TALON vs Nongshim RedForce
+DTSTART:20250406T100000Z
+DTEND:20250406T120000Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DRX vs Global Esports
+DTSTART:20250407T080000Z
+DTEND:20250407T100000Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:T1 vs Team Secret
+DTSTART:20250407T100000Z
+DTEND:20250407T120000Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nongshim RedForce vs Team Secret
+DTSTART:20250412T080000Z
+DTEND:20250412T100000Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DRX vs BOOM Esports
+DTSTART:20250412T100000Z
+DTEND:20250412T120000Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:T1 vs Rex Regum Qeon
+DTSTART:20250413T080000Z
+DTEND:20250413T100000Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gen.G vs Global Esports
+DTSTART:20250413T100000Z
+DTEND:20250413T120000Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TALON vs ZETA DIVISION
+DTSTART:20250414T080000Z
+DTEND:20250414T100000Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DetonatioN FocusMe vs Paper Rex
+DTSTART:20250414T100000Z
+DTEND:20250414T120000Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paper Rex vs Global Esports
+DTSTART:20250419T080000Z
+DTEND:20250419T100000Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:T1 vs TALON
+DTSTART:20250419T100000Z
+DTEND:20250419T120000Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DRX vs Gen.G
+DTSTART:20250420T080000Z
+DTEND:20250420T100000Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nongshim RedForce vs ZETA DIVISION
+DTSTART:20250420T100000Z
+DTEND:20250420T120000Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DetonatioN FocusMe vs BOOM Esports
+DTSTART:20250421T080000Z
+DTEND:20250421T100000Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rex Regum Qeon vs Team Secret
+DTSTART:20250421T100000Z
+DTEND:20250421T120000Z
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2379/champions-tour-2025-pacific-stage-1/group-stage
+LOCATION:Sangam SOOP Colosseum, Seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Team Vitality vs GIANTX
+DTSTART:20250326T160000Z
+DTEND:20250326T180000Z
+DTSTAMP:20250325T163209Z
+LOCATION:Riot Games Arena, Berlin
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BBL Esports vs Karmine Corp
+DTSTART:20250326T190000Z
+DTEND:20250326T210000Z
+DTSTAMP:20250325T163209Z
+LOCATION:Riot Games Arena, Berlin
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Team Heretics vs Apeks
+DTSTART:20250327T160000Z
+DTEND:20250327T180000Z
+DTSTAMP:20250325T163209Z
+LOCATION:Riot Games Arena, Berlin
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
+SUMMARY:FUT Esports vs KOI
+DTSTART:20250327T190000Z
+DTEND:20250327T210000Z
+DTSTAMP:20250325T163209Z
+LOCATION:Riot Games Arena, Berlin
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FNATIC vs Natus Vincere
+DTSTART:20250328T160000Z
+DTEND:20250328T180000Z
+DTSTAMP:20250325T163209Z
+LOCATION:Riot Games Arena, Berlin
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Team Liquid vs Gentle Mates
+DTSTART:20250328T190000Z
+DTEND:20250328T210000Z
+DTSTAMP:20250325T163209Z
+LOCATION:Riot Games Arena, Berlin
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Team Liquid vs BBL Esports
+DTSTART:20250402T150000Z
+DTEND:20250402T170000Z
+DTSTAMP:20250325T163209Z
+LOCATION:Riot Games Arena, Berlin
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Apeks vs Natus Vincere
+DTSTART:20250402T180000Z
+DTEND:20250402T200000Z
+DTSTAMP:20250325T163209Z
+LOCATION:Riot Games Arena, Berlin
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
+BEGIN:VEVENT
+SUMMARY:FUT Esports vs Gentle Mates
+DTSTART:20250403T150000Z
+DTEND:20250403T170000Z
+DTSTAMP:20250325T163209Z
+LOCATION:Riot Games Arena, Berlin
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
+BEGIN:VEVENT
+SUMMARY:Team Heretics vs GIANTX
+DTSTART:20250403T180000Z
+DTEND:20250403T200000Z
+DTSTAMP:20250325T163209Z
+LOCATION:Riot Games Arena, Berlin
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Team Vitality vs FNATIC
+DTSTART:20250404T150000Z
+DTEND:20250404T170000Z
+DTSTAMP:20250325T163209Z
+LOCATION:Riot Games Arena, Berlin
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KOI vs Karmine Corp
+DTSTART:20250404T180000Z
+DTEND:20250404T200000Z
+DTSTAMP:20250325T163209Z
+LOCATION:Riot Games Arena, Berlin
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KOI vs BBL Esports
+DTSTART:20250409T150000Z
+DTEND:20250409T170000Z
+DTSTAMP:20250325T163209Z
+LOCATION:Riot Games Arena, Berlin
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Natus Vincere vs GIANTX
+DTSTART:20250409T180000Z
+DTEND:20250409T200000Z
+DTSTAMP:20250325T163209Z
+LOCATION:Riot Games Arena, Berlin
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Team Liquid vs FUT Esports
+DTSTART:20250410T150000Z
+DTEND:20250410T170000Z
+DTSTAMP:20250325T163209Z
+LOCATION:Riot Games Arena, Berlin
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Team Vitality vs Team Heretics
+DTSTART:20250410T180000Z
+DTEND:20250410T200000Z
+DTSTAMP:20250325T163209Z
+LOCATION:Riot Games Arena, Berlin
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Apeks vs FNATIC
+DTSTART:20250411T150000Z
+DTEND:20250411T170000Z
+DTSTAMP:20250325T163209Z
+LOCATION:Riot Games Arena, Berlin
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karmine Corp vs Gentle Mates
+DTSTART:20250411T180000Z
+DTEND:20250411T200000Z
+DTSTAMP:20250325T163209Z
+LOCATION:Riot Games Arena, Berlin
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Team Vitality vs Apeks
+DTSTART:20250416T150000Z
+DTEND:20250416T170000Z
+DTSTAMP:20250325T163209Z
+LOCATION:Riot Games Arena, Berlin
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Team Liquid vs KOI
+DTSTART:20250416T180000Z
+DTEND:20250416T200000Z
+DTSTAMP:20250325T163209Z
+LOCATION:Riot Games Arena, Berlin
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gentle Mates vs BBL Esports
+DTSTART:20250417T150000Z
+DTEND:20250417T170000Z
+DTSTAMP:20250325T163209Z
+LOCATION:Riot Games Arena, Berlin
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GIANTX vs FNATIC
+DTSTART:20250417T180000Z
+DTEND:20250417T200000Z
+DTSTAMP:20250325T163209Z
+LOCATION:Riot Games Arena, Berlin
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karmine Corp vs FUT Esports
+DTSTART:20250418T150000Z
+DTEND:20250418T170000Z
+DTSTAMP:20250325T163209Z
+LOCATION:Riot Games Arena, Berlin
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Natus Vincere vs Team Heretics
+DTSTART:20250418T180000Z
+DTEND:20250418T200000Z
+DTSTAMP:20250325T163209Z
+LOCATION:Riot Games Arena, Berlin
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BBL Esports vs FUT Esports
+DTSTART:20250423T150000Z
+DTEND:20250423T170000Z
+DTSTAMP:20250325T163209Z
+LOCATION:Riot Games Arena, Berlin
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GIANTX vs Apeks
+DTSTART:20250423T180000Z
+DTEND:20250423T200000Z
+DTSTAMP:20250325T163209Z
+LOCATION:Riot Games Arena, Berlin
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gentle Mates vs KOI
+DTSTART:20250424T150000Z
+DTEND:20250424T170000Z
+DTSTAMP:20250325T163209Z
+LOCATION:Riot Games Arena, Berlin
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Team Vitality vs Natus Vincere
+DTSTART:20250424T180000Z
+DTEND:20250424T200000Z
+DTSTAMP:20250325T163209Z
+LOCATION:Riot Games Arena, Berlin
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Team Liquid vs Karmine Corp
+DTSTART:20250425T150000Z
+DTEND:20250425T170000Z
+DTSTAMP:20250325T163209Z
+LOCATION:Riot Games Arena, Berlin
+DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FNATIC vs Team Heretics
+DTSTART:20250425T180000Z
+DTEND:20250425T200000Z
+DTSTAMP:20250325T163209Z
+LOCATION:Riot Games Arena, Berlin
+DESCRIPTION:sStanding and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JDG Esports vs Trace Esports
+DTSTART:20250327T110000Z
+DTEND:20250327T130000Z
+DTSTAMP:20250326T034511Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2359/champions-tour-2025-china-stage-1/group-stage
+LOCATION:VCT CN Arena, Shanghai
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolves Esports vs Xi Lai Gaming
+DTSTART:20250328T110000Z
+DTEND:20250328T130000Z
+DTSTAMP:20250326T034511Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2359/champions-tour-2025-china-stage-1/group-stage
+LOCATION:VCT CN Arena, Shanghai
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TYLOO vs Titan Esports Club
+DTSTART:20250329T090000Z
+DTEND:20250329T110000Z
+DTSTAMP:20250326T034511Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2359/champions-tour-2025-china-stage-1/group-stage
+LOCATION:VCT CN Arena, Shanghai
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dragon Ranger Gaming vs EDward Gaming
+DTSTART:20250329T110000Z
+DTEND:20250329T130000Z
+DTSTAMP:20250326T034511Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2359/champions-tour-2025-china-stage-1/group-stage
+LOCATION:VCT CN Arena, Shanghai
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nova Esports vs FunPlus Phoenix
+DTSTART:20250330T090000Z
+DTEND:20250330T110000Z
+DTSTAMP:20250326T034511Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2359/champions-tour-2025-china-stage-1/group-stage
+LOCATION:VCT CN Arena, Shanghai
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All Gamers vs Bilibili Gaming
+DTSTART:20250330T110000Z
+DTEND:20250330T130000Z
+DTSTAMP:20250326T034511Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2359/champions-tour-2025-china-stage-1/group-stage
+LOCATION:VCT CN Arena, Shanghai
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FunPlus Phoenix vs Dragon Ranger Gaming
+DTSTART:20250403T110000Z
+DTEND:20250403T130000Z
+DTSTAMP:20250326T034511Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2359/champions-tour-2025-china-stage-1/group-stage
+LOCATION:VCT CN Arena, Shanghai
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bilibili Gaming vs Wolves Esports
+DTSTART:20250404T110000Z
+DTEND:20250404T130000Z
+DTSTAMP:20250326T034511Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2359/champions-tour-2025-china-stage-1/group-stage
+LOCATION:VCT CN Arena, Shanghai
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All Gamers vs JDG Esports
+DTSTART:20250405T090000Z
+DTEND:20250405T110000Z
+DTSTAMP:20250326T034511Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2359/champions-tour-2025-china-stage-1/group-stage
+LOCATION:VCT CN Arena, Shanghai
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EDward Gaming vs Titan Esports Club
+DTSTART:20250405T110000Z
+DTEND:20250405T130000Z
+DTSTAMP:20250326T034511Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2359/champions-tour-2025-china-stage-1/group-stage
+LOCATION:VCT CN Arena, Shanghai
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nova Esports vs TYLOO
+DTSTART:20250406T090000Z
+DTEND:20250406T110000Z
+DTSTAMP:20250326T034511Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2359/champions-tour-2025-china-stage-1/group-stage
+LOCATION:VCT CN Arena, Shanghai
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trace Esports vs Xi Lai Gaming
+DTSTART:20250406T110000Z
+DTEND:20250406T130000Z
+DTSTAMP:20250326T034511Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2359/champions-tour-2025-china-stage-1/group-stage
+LOCATION:VCT CN Arena, Shanghai
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JDG Esports vs Xi Lai Gaming
+DTSTART:20250410T110000Z
+DTEND:20250410T130000Z
+DTSTAMP:20250326T034511Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2359/champions-tour-2025-china-stage-1/group-stage
+LOCATION:VCT CN Arena, Shanghai
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dragon Ranger Gaming vs TYLOO
+DTSTART:20250411T110000Z
+DTEND:20250411T130000Z
+DTSTAMP:20250326T034511Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2359/champions-tour-2025-china-stage-1/group-stage
+LOCATION:VCT CN Arena, Shanghai
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolves Esports vs All Gamers
+DTSTART:20250412T090000Z
+DTEND:20250412T110000Z
+DTSTAMP:20250326T034511Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2359/champions-tour-2025-china-stage-1/group-stage
+LOCATION:VCT CN Arena, Shanghai
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bilibili Gaming vs Trace Esports
+DTSTART:20250412T110000Z
+DTEND:20250412T130000Z
+DTSTAMP:20250326T034511Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2359/champions-tour-2025-china-stage-1/group-stage
+LOCATION:VCT CN Arena, Shanghai
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Titan Esports Club vs Nova Esports
+DTSTART:20250413T090000Z
+DTEND:20250413T110000Z
+DTSTAMP:20250326T034511Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2359/champions-tour-2025-china-stage-1/group-stage
+LOCATION:VCT CN Arena, Shanghai
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EDward Gaming vs FunPlus Phoenix
+DTSTART:20250413T110000Z
+DTEND:20250413T130000Z
+DTSTAMP:20250326T034511Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2359/champions-tour-2025-china-stage-1/group-stage
+LOCATION:VCT CN Arena, Shanghai
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud9 vs NRG Esports
+DTSTART:20250321T210000Z
+DTEND:20250321T220000Z
+DTSTAMP:20250325T184133Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KRÜ Esports vs LOUD
+DTSTART:20250322T002500Z
+DTEND:20250322T012500Z
+DTSTAMP:20250325T184133Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:G2 Esports vs FURIA
+DTSTART:20250322T210000Z
+DTEND:20250322T220000Z
+DTSTAMP:20250325T184133Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MIBR vs LEVIATÁN
+DTSTART:20250322T232500Z
+DTEND:20250323T002500Z
+DTSTAMP:20250325T184133Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2Game Esports vs Evil Geniuses
+DTSTART:20250323T210000Z
+DTEND:20250323T220000Z
+DTSTAMP:20250325T184133Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentinels vs 100 Thieves
+DTSTART:20250323T233000Z
+DTEND:20250324T003000Z
+DTSTAMP:20250325T184133Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NRG Esports vs FURIA
+DTSTART:20250328T210000Z
+DTEND:20250328T220000Z
+DTSTAMP:20250325T184133Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentinels vs KRÜ Esports
+DTSTART:20250329T000000Z
+DTEND:20250329T010000Z
+DTSTAMP:20250325T184133Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:100 Thieves vs Evil Geniuses
+DTSTART:20250329T210000Z
+DTEND:20250329T220000Z
+DTSTAMP:20250325T184133Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:G2 Esports vs MIBR
+DTSTART:20250330T000000Z
+DTEND:20250330T010000Z
+DTSTAMP:20250325T184133Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LOUD vs 2Game Esports
+DTSTART:20250330T210000Z
+DTEND:20250330T220000Z
+DTSTAMP:20250325T184133Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LEVIATÁN vs Cloud9
+DTSTART:20250331T000000Z
+DTEND:20250331T010000Z
+DTSTAMP:20250325T184133Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evil Geniuses vs Sentinels
+DTSTART:20250404T210000Z
+DTEND:20250404T220000Z
+DTSTAMP:20250325T184133Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:100 Thieves vs LOUD
+DTSTART:20250405T000000Z
+DTEND:20250405T010000Z
+DTSTAMP:20250325T184133Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2Game Esports vs KRÜ Esports
+DTSTART:20250405T210000Z
+DTEND:20250405T220000Z
+DTSTAMP:20250325T184133Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:G2 Esports vs NRG Esports
+DTSTART:20250406T000000Z
+DTEND:20250406T010000Z
+DTSTAMP:20250325T184133Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FURIA vs LEVIATÁN
+DTSTART:20250406T210000Z
+DTEND:20250406T220000Z
+DTSTAMP:20250325T184133Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud9 vs MIBR
+DTSTART:20250407T000000Z
+DTEND:20250407T010000Z
+DTSTAMP:20250325T184133Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:100 Thieves vs 2Game Esports
+DTSTART:20250411T210000Z
+DTEND:20250411T220000Z
+DTSTAMP:20250325T184133Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:G2 Esports vs LEVIATÁN
+DTSTART:20250412T000000Z
+DTEND:20250412T010000Z
+DTSTAMP:20250325T184133Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FURIA vs Cloud9
+DTSTART:20250412T210000Z
+DTEND:20250412T220000Z
+DTSTAMP:20250325T184133Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentinels vs LOUD
+DTSTART:20250413T000000Z
+DTEND:20250413T010000Z
+DTSTAMP:20250325T184133Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KRÜ Esports vs Evil Geniuses
+DTSTART:20250413T210000Z
+DTEND:20250413T220000Z
+DTSTAMP:20250325T184133Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NRG Esports vs MIBR
+DTSTART:20250414T000000Z
+DTEND:20250414T010000Z
+DTSTAMP:20250325T184133Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:G2 Esports vs Cloud9
+DTSTART:20250418T210000Z
+DTEND:20250418T220000Z
+DTSTAMP:20250325T184133Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MIBR vs FURIA
+DTSTART:20250419T000000Z
+DTEND:20250419T010000Z
+DTSTAMP:20250325T184133Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentinels vs 2Game Esports
+DTSTART:20250419T210000Z
+DTEND:20250419T220000Z
+DTSTAMP:20250325T184133Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KRÜ Esports vs 100 Thieves
+DTSTART:20250420T000000Z
+DTEND:20250420T010000Z
+DTSTAMP:20250325T184133Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evil Geniuses vs LOUD
+DTSTART:20250420T210000Z
+DTEND:20250420T220000Z
+DTSTAMP:20250325T184133Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LEVIATÁN vs NRG Esports
+DTSTART:20250421T000000Z
+DTEND:20250421T010000Z
+DTSTAMP:20250325T184133Z
+DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
+END:VEVENT
+END:VCALENDAR

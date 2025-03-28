@@ -66,3 +66,25 @@ h1 {
     background-color: #0044cc;
     border-color: #002299;
 }
+.sync-instructions {
+    background-color: #2e2e2e; /* Dark grey background */
+    color: #ffffff; /* White text */
+    padding: 20px;
+    margin-top: 40px;
+    border-radius: 8px;
+    font-family: "Courier New", monospace; /* Typewriter-style font */
+    text-align: left;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sync-instructions h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.sync-instructions p {
+    font-size: 16px;
+    line-height: 1.5;
+}
