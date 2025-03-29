@@ -1,214 +1,275 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//VCT Schedule//Valorant//EN
+
 BEGIN:VEVENT
 SUMMARY:Cloud9 vs NRG Esports
 DTSTART:20250321T210000Z
 DTEND:20250321T220000Z
 DTSTAMP:20250325T184133Z
+LOCATION:Riot Games Arena, Los Angeles
 DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:KRÜ Esports vs LOUD
 DTSTART:20250322T002500Z
 DTEND:20250322T012500Z
 DTSTAMP:20250325T184133Z
+LOCATION:Riot Games Arena, Los Angeles
 DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:G2 Esports vs FURIA
 DTSTART:20250322T210000Z
 DTEND:20250322T220000Z
 DTSTAMP:20250325T184133Z
+LOCATION:Riot Games Arena, Los Angeles
 DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:MIBR vs LEVIATÁN
 DTSTART:20250322T232500Z
 DTEND:20250323T002500Z
 DTSTAMP:20250325T184133Z
+LOCATION:Riot Games Arena, Los Angeles
 DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:2Game Esports vs Evil Geniuses
 DTSTART:20250323T210000Z
 DTEND:20250323T220000Z
 DTSTAMP:20250325T184133Z
+LOCATION:Riot Games Arena, Los Angeles
 DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:Sentinels vs 100 Thieves
 DTSTART:20250323T233000Z
 DTEND:20250324T003000Z
 DTSTAMP:20250325T184133Z
+LOCATION:Riot Games Arena, Los Angeles
 DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:NRG Esports vs FURIA
 DTSTART:20250328T210000Z
 DTEND:20250328T220000Z
 DTSTAMP:20250325T184133Z
+LOCATION:Riot Games Arena, Los Angeles
 DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:Sentinels vs KRÜ Esports
 DTSTART:20250329T000000Z
 DTEND:20250329T010000Z
 DTSTAMP:20250325T184133Z
+LOCATION:Riot Games Arena, Los Angeles
 DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:100 Thieves vs Evil Geniuses
 DTSTART:20250329T210000Z
 DTEND:20250329T220000Z
 DTSTAMP:20250325T184133Z
+LOCATION:Riot Games Arena, Los Angeles
 DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:G2 Esports vs MIBR
 DTSTART:20250330T000000Z
 DTEND:20250330T010000Z
 DTSTAMP:20250325T184133Z
+LOCATION:Riot Games Arena, Los Angeles
 DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:LOUD vs 2Game Esports
 DTSTART:20250330T210000Z
 DTEND:20250330T220000Z
 DTSTAMP:20250325T184133Z
+LOCATION:Riot Games Arena, Los Angeles
 DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:LEVIATÁN vs Cloud9
 DTSTART:20250331T000000Z
 DTEND:20250331T010000Z
 DTSTAMP:20250325T184133Z
+LOCATION:Riot Games Arena, Los Angeles
 DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:Evil Geniuses vs Sentinels
 DTSTART:20250404T210000Z
 DTEND:20250404T220000Z
 DTSTAMP:20250325T184133Z
+LOCATION:Riot Games Arena, Los Angeles
 DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:100 Thieves vs LOUD
 DTSTART:20250405T000000Z
 DTEND:20250405T010000Z
 DTSTAMP:20250325T184133Z
+LOCATION:Riot Games Arena, Los Angeles
 DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:2Game Esports vs KRÜ Esports
 DTSTART:20250405T210000Z
 DTEND:20250405T220000Z
 DTSTAMP:20250325T184133Z
+LOCATION:Riot Games Arena, Los Angeles
 DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:G2 Esports vs NRG Esports
 DTSTART:20250406T000000Z
 DTEND:20250406T010000Z
 DTSTAMP:20250325T184133Z
+LOCATION:Riot Games Arena, Los Angeles
 DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:FURIA vs LEVIATÁN
 DTSTART:20250406T210000Z
 DTEND:20250406T220000Z
 DTSTAMP:20250325T184133Z
+LOCATION:Riot Games Arena, Los Angeles
 DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:Cloud9 vs MIBR
 DTSTART:20250407T000000Z
 DTEND:20250407T010000Z
 DTSTAMP:20250325T184133Z
+LOCATION:Riot Games Arena, Los Angeles
 DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:100 Thieves vs 2Game Esports
 DTSTART:20250411T210000Z
 DTEND:20250411T220000Z
 DTSTAMP:20250325T184133Z
+LOCATION:Riot Games Arena, Los Angeles
 DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:G2 Esports vs LEVIATÁN
 DTSTART:20250412T000000Z
 DTEND:20250412T010000Z
 DTSTAMP:20250325T184133Z
+LOCATION:Riot Games Arena, Los Angeles
 DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:FURIA vs Cloud9
 DTSTART:20250412T210000Z
 DTEND:20250412T220000Z
 DTSTAMP:20250325T184133Z
+LOCATION:Riot Games Arena, Los Angeles
 DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:Sentinels vs LOUD
 DTSTART:20250413T000000Z
 DTEND:20250413T010000Z
 DTSTAMP:20250325T184133Z
+LOCATION:Riot Games Arena, Los Angeles
 DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:KRÜ Esports vs Evil Geniuses
 DTSTART:20250413T210000Z
 DTEND:20250413T220000Z
 DTSTAMP:20250325T184133Z
+LOCATION:Riot Games Arena, Los Angeles
 DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:NRG Esports vs MIBR
 DTSTART:20250414T000000Z
 DTEND:20250414T010000Z
 DTSTAMP:20250325T184133Z
+LOCATION:Riot Games Arena, Los Angeles
 DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:G2 Esports vs Cloud9
 DTSTART:20250418T210000Z
 DTEND:20250418T220000Z
 DTSTAMP:20250325T184133Z
+LOCATION:Riot Games Arena, Los Angeles
 DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:MIBR vs FURIA
 DTSTART:20250419T000000Z
 DTEND:20250419T010000Z
 DTSTAMP:20250325T184133Z
+LOCATION:Riot Games Arena, Los Angeles
 DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:Sentinels vs 2Game Esports
 DTSTART:20250419T210000Z
 DTEND:20250419T220000Z
 DTSTAMP:20250325T184133Z
+LOCATION:Riot Games Arena, Los Angeles
 DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:KRÜ Esports vs 100 Thieves
 DTSTART:20250420T000000Z
 DTEND:20250420T010000Z
 DTSTAMP:20250325T184133Z
+LOCATION:Riot Games Arena, Los Angeles
 DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:Evil Geniuses vs LOUD
 DTSTART:20250420T210000Z
 DTEND:20250420T220000Z
 DTSTAMP:20250325T184133Z
+LOCATION:Riot Games Arena, Los Angeles
 DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:LEVIATÁN vs NRG Esports
 DTSTART:20250421T000000Z
 DTEND:20250421T010000Z
 DTSTAMP:20250325T184133Z
+LOCATION:Riot Games Arena, Los Angeles
 DESCRIPTION:Standings and more into https://www.vlr.gg/event/2347/champions-tour-2025-americas-stage-1/group-stage
 END:VEVENT
+
 END:VCALENDAR

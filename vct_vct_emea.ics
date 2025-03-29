@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//VCT Schedule//Valorant//EN
+
 BEGIN:VEVENT
 SUMMARY:Team Vitality vs GIANTX
 DTSTART:20250326T160000Z
@@ -9,6 +10,7 @@ DTSTAMP:20250325T163209Z
 LOCATION:Riot Games Arena, Berlin
 DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:BBL Esports vs Karmine Corp
 DTSTART:20250326T190000Z
@@ -17,6 +19,7 @@ DTSTAMP:20250325T163209Z
 LOCATION:Riot Games Arena, Berlin
 DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:Team Heretics vs Apeks
 DTSTART:20250327T160000Z
@@ -24,6 +27,9 @@ DTEND:20250327T180000Z
 DTSTAMP:20250325T163209Z
 LOCATION:Riot Games Arena, Berlin
 DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
+END:VEVENT
+
+BEGIN:VEVENT
 SUMMARY:FUT Esports vs KOI
 DTSTART:20250327T190000Z
 DTEND:20250327T210000Z
@@ -31,6 +37,7 @@ DTSTAMP:20250325T163209Z
 LOCATION:Riot Games Arena, Berlin
 DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:FNATIC vs Natus Vincere
 DTSTART:20250328T160000Z
@@ -39,6 +46,7 @@ DTSTAMP:20250325T163209Z
 LOCATION:Riot Games Arena, Berlin
 DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:Team Liquid vs Gentle Mates
 DTSTART:20250328T190000Z
@@ -47,6 +55,7 @@ DTSTAMP:20250325T163209Z
 LOCATION:Riot Games Arena, Berlin
 DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:Team Liquid vs BBL Esports
 DTSTART:20250402T150000Z
@@ -55,6 +64,7 @@ DTSTAMP:20250325T163209Z
 LOCATION:Riot Games Arena, Berlin
 DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:Apeks vs Natus Vincere
 DTSTART:20250402T180000Z
@@ -62,6 +72,8 @@ DTEND:20250402T200000Z
 DTSTAMP:20250325T163209Z
 LOCATION:Riot Games Arena, Berlin
 DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
+END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:FUT Esports vs Gentle Mates
 DTSTART:20250403T150000Z
@@ -69,6 +81,8 @@ DTEND:20250403T170000Z
 DTSTAMP:20250325T163209Z
 LOCATION:Riot Games Arena, Berlin
 DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
+END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:Team Heretics vs GIANTX
 DTSTART:20250403T180000Z
@@ -77,6 +91,7 @@ DTSTAMP:20250325T163209Z
 LOCATION:Riot Games Arena, Berlin
 DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:Team Vitality vs FNATIC
 DTSTART:20250404T150000Z
@@ -85,6 +100,7 @@ DTSTAMP:20250325T163209Z
 LOCATION:Riot Games Arena, Berlin
 DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:KOI vs Karmine Corp
 DTSTART:20250404T180000Z
@@ -93,6 +109,7 @@ DTSTAMP:20250325T163209Z
 LOCATION:Riot Games Arena, Berlin
 DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:KOI vs BBL Esports
 DTSTART:20250409T150000Z
@@ -101,6 +118,7 @@ DTSTAMP:20250325T163209Z
 LOCATION:Riot Games Arena, Berlin
 DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:Natus Vincere vs GIANTX
 DTSTART:20250409T180000Z
@@ -109,6 +127,7 @@ DTSTAMP:20250325T163209Z
 LOCATION:Riot Games Arena, Berlin
 DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:Team Liquid vs FUT Esports
 DTSTART:20250410T150000Z
@@ -117,6 +136,7 @@ DTSTAMP:20250325T163209Z
 LOCATION:Riot Games Arena, Berlin
 DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:Team Vitality vs Team Heretics
 DTSTART:20250410T180000Z
@@ -125,6 +145,7 @@ DTSTAMP:20250325T163209Z
 LOCATION:Riot Games Arena, Berlin
 DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:Apeks vs FNATIC
 DTSTART:20250411T150000Z
@@ -133,6 +154,7 @@ DTSTAMP:20250325T163209Z
 LOCATION:Riot Games Arena, Berlin
 DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:Karmine Corp vs Gentle Mates
 DTSTART:20250411T180000Z
@@ -141,6 +163,7 @@ DTSTAMP:20250325T163209Z
 LOCATION:Riot Games Arena, Berlin
 DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:Team Vitality vs Apeks
 DTSTART:20250416T150000Z
@@ -149,6 +172,7 @@ DTSTAMP:20250325T163209Z
 LOCATION:Riot Games Arena, Berlin
 DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:Team Liquid vs KOI
 DTSTART:20250416T180000Z
@@ -157,6 +181,7 @@ DTSTAMP:20250325T163209Z
 LOCATION:Riot Games Arena, Berlin
 DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:Gentle Mates vs BBL Esports
 DTSTART:20250417T150000Z
@@ -165,6 +190,7 @@ DTSTAMP:20250325T163209Z
 LOCATION:Riot Games Arena, Berlin
 DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:GIANTX vs FNATIC
 DTSTART:20250417T180000Z
@@ -173,6 +199,7 @@ DTSTAMP:20250325T163209Z
 LOCATION:Riot Games Arena, Berlin
 DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:Karmine Corp vs FUT Esports
 DTSTART:20250418T150000Z
@@ -181,6 +208,7 @@ DTSTAMP:20250325T163209Z
 LOCATION:Riot Games Arena, Berlin
 DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:Natus Vincere vs Team Heretics
 DTSTART:20250418T180000Z
@@ -189,6 +217,7 @@ DTSTAMP:20250325T163209Z
 LOCATION:Riot Games Arena, Berlin
 DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:BBL Esports vs FUT Esports
 DTSTART:20250423T150000Z
@@ -197,6 +226,7 @@ DTSTAMP:20250325T163209Z
 LOCATION:Riot Games Arena, Berlin
 DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:GIANTX vs Apeks
 DTSTART:20250423T180000Z
@@ -205,6 +235,7 @@ DTSTAMP:20250325T163209Z
 LOCATION:Riot Games Arena, Berlin
 DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:Gentle Mates vs KOI
 DTSTART:20250424T150000Z
@@ -213,6 +244,7 @@ DTSTAMP:20250325T163209Z
 LOCATION:Riot Games Arena, Berlin
 DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:Team Vitality vs Natus Vincere
 DTSTART:20250424T180000Z
@@ -221,6 +253,7 @@ DTSTAMP:20250325T163209Z
 LOCATION:Riot Games Arena, Berlin
 DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:Team Liquid vs Karmine Corp
 DTSTART:20250425T150000Z
@@ -229,6 +262,7 @@ DTSTAMP:20250325T163209Z
 LOCATION:Riot Games Arena, Berlin
 DESCRIPTION:Standings and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:FNATIC vs Team Heretics
 DTSTART:20250425T180000Z
@@ -237,4 +271,5 @@ DTSTAMP:20250325T163209Z
 LOCATION:Riot Games Arena, Berlin
 DESCRIPTION:sStanding and more info\nhttps://www.vlr.gg/event/2380/champions-tour-2025-emea-stage-1/group-stage
 END:VEVENT
+
 END:VCALENDAR
