@@ -164,4 +164,22 @@ DESCRIPTION:Standings and more into https://www.vlr.gg/event/2359/champions-tour
 LOCATION:VCT CN Arena, Shanghai
 END:VEVENT
 
+BEGIN:VEVENT
+SUMMARY:Wolves Esports vs Titan Esports Club
+DTSTART:20250417T090000Z
+DTEND:20250417T110000Z
+DTSTAMP:20250326T034511Z
+DESCRIPTION:Standings and more info https://www.vlr.gg/event/2359/champions-tour-2025-china-stage-1/playoffs
+LOCATION:VCT CN Arena, Shanghai
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Nova Esports vs Xi Lai Gaming
+DTSTART:20250417T110000Z
+DTEND:20250417T130000Z
+DTSTAMP:20250326T034511Z
+DESCRIPTION:Standings and more info https://www.vlr.gg/event/2359/champions-tour-2025-china-stage-1/playoffs
+LOCATION:VCT CN Arena, Shanghai
+END:VEVENT
+
 END:VCALENDAR
